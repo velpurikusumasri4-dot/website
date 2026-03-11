@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Campus Food Review</title>
+<style>
+
+body{
+font-family: Arial;
+text-align:center;
+background:#f4f4f4;
+}
+
+h1{
+color:#ff4d4d;
+}
+
+.card{
+background:white;
+padding:20px;
+margin:20px;
+display:inline-block;
+border-radius:10px;
+box-shadow:0px 0px 10px gray;
+}
+
+</style>
+</head>
+
+<body>
+
+<h1>Campus Food Review</h1>
+
+<div class="card">
+<h2>Burger</h2>
+<p>Rating ⭐⭐⭐⭐</p>
+</div>
+
+<div class="card">
+<h2>Pizza</h2>
+<p>Rating ⭐⭐⭐⭐⭐</p>
+</div>
+
+<div class="card">
+<h2>Sandwich</h2>
+<p>Rating ⭐⭐⭐</p>
+</div>
+
+</body>
+</html>
